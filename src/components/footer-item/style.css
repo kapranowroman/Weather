@@ -1,0 +1,15 @@
+.footer-content-wrapper {
+    min-width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-item-header {
+    font-size: 18px;
+    color: white;
+    opacity: 0.4;
+}
+
+.footer-item-content {
+    font-size: 25px;
+}

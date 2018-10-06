@@ -1,1 +1,2 @@
-# Weather
+- npm i
+- npm start
